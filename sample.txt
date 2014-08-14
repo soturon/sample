@@ -1,3 +1,4 @@
+git init //レジストリの確保
 git add . //ステージングエリアへ保存
 git commit -m "(なんでもOK)"　//レポジトリへ保存
 git log //ログを見る
