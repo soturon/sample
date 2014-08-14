@@ -5,4 +5,4 @@ git reset --head (ID)or(head^) //前に戻る
 git checkout -b （ファイル名）　//ブランチの作成
 git branch //ブランチの確認
 git remote add origin https://github.com/soturon/sample.git　//宛先の登録
-git push -u orizin master //githubへ保存
+git push -u origin master //githubへ保存
